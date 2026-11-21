@@ -9,6 +9,7 @@ I build software that keeps keys, messages, and configuration on the user's devi
 | Project | What it does |
 |---|---|
 | [X Wallet](https://github.com/jackh0006/X-Wallet) | Self-custodial EVM wallet for Linux with a local encrypted vault, cold signing, Tor/SOCKS routing, and signed releases. |
+| [XHR](https://github.com/jackh0006/XHR) | Encrypted TCP relay through Google Apps Script with a Cloudflare Workers free exit, Android TUN/SOCKS5, and a 1–5 deployment pool. No Google Cloud billing. |
 | [X-Messenger](https://github.com/jackh0006/X-Messenger) | Offline encrypted courier for sharing sealed messages by QR, file, or text. |
 | [OpenVPN-Wizard](https://github.com/jackh0006/OpenVPN-Wizard) | Hardened OpenVPN over TCP/443 with HAProxy SNI multiplexing. |
 | [XDNS](https://github.com/jackh0006/XDNS) | High-performance DNS tunnel compatible with MasterDNS clients. |
